@@ -1,0 +1,201 @@
+order_id,order_date,customer_segment,priority,product_category,origin,destination,order_value
+ODR1000,2025-02-21,SMB,Standard,Fashion,Kolkata,Mumbai,1360
+ODR1001,2025-01-15,Individual,Standard,Home Goods,Mumbai,Bangalore,12464
+ODR1002,2025-01-21,Individual,Standard,Industrial,Bangalore,Kolkata,6765
+ODR1003,2025-03-24,Enterprise,Express,Healthcare,Bangalore,Chennai,4926
+ODR1004,2025-03-16,Individual,Express,Healthcare,Chennai,Delhi,14923
+ODR1005,2025-01-24,Individual,Economy,Healthcare,Delhi,Chennai,8822
+ODR1006,2025-01-22,Enterprise,Express,Fashion,Chennai,Kolkata,1269
+ODR1007,2025-03-29,Enterprise,Standard,Books,Delhi,Mumbai,2933
+ODR1008,2025-03-05,SMB,Express,Books,Mumbai,Bangalore,5551
+ODR1009,2025-01-21,Enterprise,Express,Food & Beverage,Mumbai,Chennai,18068
+ODR1010,2025-03-17,SMB,Economy,Healthcare,Bangalore,Delhi,6896
+ODR1011,2025-03-30,Individual,Express,Healthcare,Mumbai,Delhi,9166
+ODR1012,2025-02-28,Individual,Express,Fashion,Mumbai,Chennai,19442
+ODR1013,2025-02-11,Individual,Economy,Home Goods,Chennai,Chennai,18931
+ODR1014,2025-03-01,Enterprise,Standard,Fashion,Bangalore,Kolkata,689
+ODR1015,2025-03-03,SMB,Express,Home Goods,Bangalore,Kolkata,19618
+ODR1016,2025-03-03,SMB,Standard,Food & Beverage,Mumbai,Chennai,2399
+ODR1017,2025-02-24,SMB,Express,Fashion,Delhi,Mumbai,1767
+ODR1018,2025-03-05,Enterprise,Economy,Healthcare,Delhi,Bangalore,18412
+ODR1019,2025-01-03,Individual,Economy,Electronics,Mumbai,Mumbai,4056
+ODR1020,2025-02-20,Enterprise,Express,Food & Beverage,Kolkata,Chennai,9338
+ODR1021,2025-01-21,Individual,Economy,Healthcare,Delhi,Chennai,15002
+ODR1022,2025-01-18,Individual,Express,Food & Beverage,Bangalore,Chennai,11127
+ODR1023,2025-03-30,Enterprise,Standard,Food & Beverage,Mumbai,Kolkata,11055
+ODR1024,2025-01-14,Individual,Express,Industrial,Delhi,Delhi,8933
+ODR1025,2025-01-09,SMB,Express,Food & Beverage,Delhi,Bangalore,3112
+ODR1026,2025-01-02,Enterprise,Economy,Healthcare,Mumbai,Mumbai,16287
+ODR1027,2025-01-08,Enterprise,Economy,Industrial,Delhi,Chennai,12706
+ODR1028,2025-02-04,Enterprise,Economy,Healthcare,Bangalore,Kolkata,15041
+ODR1029,2025-03-22,SMB,Economy,Industrial,Delhi,Kolkata,2085
+ODR1030,2025-01-04,Individual,Express,Industrial,Bangalore,Delhi,19957
+ODR1031,2025-01-06,SMB,Standard,Industrial,Delhi,Kolkata,11305
+ODR1032,2025-01-04,Individual,Standard,Food & Beverage,Chennai,Chennai,8489
+ODR1033,2025-03-04,Individual,Standard,Electronics,Kolkata,Mumbai,7373
+ODR1034,2025-02-13,SMB,Standard,Electronics,Delhi,Mumbai,661
+ODR1035,2025-03-15,SMB,Express,Home Goods,Bangalore,Mumbai,1495
+ODR1036,2025-01-14,SMB,Standard,Home Goods,Chennai,Mumbai,12034
+ODR1037,2025-03-13,Individual,Standard,Industrial,Kolkata,Mumbai,8129
+ODR1038,2025-03-28,Individual,Standard,Fashion,Mumbai,Delhi,1516
+ODR1039,2025-03-03,Enterprise,Express,Industrial,Delhi,Bangalore,9029
+ODR1040,2025-02-22,SMB,Standard,Fashion,Mumbai,Bangalore,12685
+ODR1041,2025-03-30,Enterprise,Express,Electronics,Chennai,Chennai,6831
+ODR1042,2025-02-10,Individual,Economy,Books,Mumbai,Chennai,5776
+ODR1043,2025-01-15,Enterprise,Express,Books,Bangalore,Chennai,16948
+ODR1044,2025-03-30,Enterprise,Economy,Fashion,Kolkata,Mumbai,8506
+ODR1045,2025-01-09,Enterprise,Express,Food & Beverage,Bangalore,Chennai,2527
+ODR1046,2025-01-08,Individual,Express,Food & Beverage,Kolkata,Bangalore,15922
+ODR1047,2025-01-11,SMB,Express,Books,Bangalore,Mumbai,7236
+ODR1048,2025-01-08,Individual,Standard,Home Goods,Bangalore,Delhi,14486
+ODR1049,2025-02-04,SMB,Economy,Healthcare,Kolkata,Chennai,13166
+ODR1050,2025-01-05,Individual,Express,Healthcare,Kolkata,Bangalore,4061
+ODR1051,2025-02-10,Individual,Standard,Fashion,Mumbai,Chennai,19983
+ODR1052,2025-01-07,Individual,Express,Home Goods,Mumbai,Bangalore,8892
+ODR1053,2025-03-13,Enterprise,Express,Home Goods,Mumbai,Bangalore,13567
+ODR1054,2025-02-03,Enterprise,Economy,Healthcare,Kolkata,Delhi,19988
+ODR1055,2025-02-17,SMB,Express,Industrial,Kolkata,Delhi,2954
+ODR1056,2025-03-03,Individual,Standard,Food & Beverage,Kolkata,Bangalore,14539
+ODR1057,2025-02-06,Individual,Standard,Industrial,Kolkata,Bangalore,19615
+ODR1058,2025-03-27,Enterprise,Economy,Healthcare,Mumbai,Bangalore,10262
+ODR1059,2025-03-06,Enterprise,Standard,Industrial,Delhi,Chennai,15448
+ODR1060,2025-02-16,Enterprise,Express,Books,Mumbai,Chennai,14273
+ODR1061,2025-01-03,Enterprise,Standard,Electronics,Chennai,Delhi,17912
+ODR1062,2025-03-31,Enterprise,Express,Home Goods,Mumbai,Delhi,1002
+ODR1063,2025-01-14,Enterprise,Express,Home Goods,Delhi,Mumbai,706
+ODR1064,2025-01-15,SMB,Standard,Fashion,Chennai,Mumbai,18368
+ODR1065,2025-02-20,SMB,Economy,Food & Beverage,Chennai,Kolkata,16434
+ODR1066,2025-02-21,SMB,Economy,Electronics,Mumbai,Delhi,12883
+ODR1067,2025-01-04,Enterprise,Standard,Healthcare,Mumbai,Delhi,18641
+ODR1068,2025-01-23,Individual,Express,Industrial,Kolkata,Kolkata,6874
+ODR1069,2025-01-15,SMB,Standard,Healthcare,Delhi,Chennai,1559
+ODR1070,2025-01-13,Enterprise,Express,Books,Chennai,Delhi,16698
+ODR1071,2025-02-28,Individual,Express,Industrial,Bangalore,Chennai,11317
+ODR1072,2025-02-11,Enterprise,Express,Healthcare,Chennai,Chennai,10289
+ODR1073,2025-02-26,Individual,Economy,Food & Beverage,Delhi,Mumbai,11752
+ODR1074,2025-01-06,Enterprise,Economy,Fashion,Chennai,Chennai,14431
+ODR1075,2025-02-13,Individual,Express,Industrial,Chennai,Chennai,16657
+ODR1076,2025-03-03,Individual,Express,Industrial,Kolkata,Mumbai,18547
+ODR1077,2025-03-30,Individual,Standard,Electronics,Delhi,Kolkata,11994
+ODR1078,2025-03-03,Individual,Economy,Food & Beverage,Delhi,Mumbai,1806
+ODR1079,2025-03-03,Individual,Standard,Industrial,Delhi,Kolkata,7276
+ODR1080,2025-03-18,SMB,Standard,Healthcare,Delhi,Delhi,9974
+ODR1081,2025-03-11,Enterprise,Standard,Fashion,Kolkata,Bangalore,6030
+ODR1082,2025-01-09,Enterprise,Express,Food & Beverage,Delhi,Bangalore,4248
+ODR1083,2025-02-20,Individual,Economy,Food & Beverage,Bangalore,Chennai,14045
+ODR1084,2025-02-13,SMB,Economy,Fashion,Delhi,Chennai,1163
+ODR1085,2025-03-20,Individual,Express,Electronics,Mumbai,Mumbai,8494
+ODR1086,2025-02-01,Individual,Express,Fashion,Mumbai,Mumbai,18379
+ODR1087,2025-02-21,SMB,Express,Industrial,Chennai,Chennai,18737
+ODR1088,2025-02-27,Enterprise,Economy,Fashion,Mumbai,Mumbai,18175
+ODR1089,2025-02-08,SMB,Express,Books,Bangalore,Mumbai,12149
+ODR1090,2025-01-03,Enterprise,Standard,Industrial,Chennai,Delhi,2136
+ODR1091,2025-02-25,Enterprise,Standard,Electronics,Kolkata,Kolkata,17582
+ODR1092,2025-01-02,Enterprise,Standard,Home Goods,Mumbai,Delhi,5237
+ODR1093,2025-02-23,SMB,Standard,Electronics,Kolkata,Kolkata,1354
+ODR1094,2025-01-01,SMB,Standard,Food & Beverage,Delhi,Delhi,14449
+ODR1095,2025-01-02,Enterprise,Express,Electronics,Chennai,Delhi,18591
+ODR1096,2025-03-31,SMB,Express,Home Goods,Bangalore,Delhi,6291
+ODR1097,2025-03-11,SMB,Standard,Electronics,Kolkata,Chennai,5431
+ODR1098,2025-02-24,SMB,Economy,Books,Chennai,Kolkata,702
+ODR1099,2025-02-25,SMB,Economy,Electronics,Kolkata,Chennai,13188
+ODR1100,2025-02-07,SMB,Economy,Food & Beverage,Bangalore,Chennai,2827
+ODR1101,2025-03-10,Enterprise,Express,Books,Kolkata,Mumbai,19815
+ODR1102,2025-03-11,Enterprise,Express,Electronics,Mumbai,Kolkata,2430
+ODR1103,2025-01-16,Individual,Standard,Industrial,Bangalore,Chennai,9839
+ODR1104,2025-02-28,SMB,Standard,Home Goods,Bangalore,Mumbai,12089
+ODR1105,2025-03-21,SMB,Standard,Electronics,Mumbai,Kolkata,16208
+ODR1106,2025-01-03,Individual,Economy,Healthcare,Mumbai,Mumbai,17543
+ODR1107,2025-02-28,SMB,Standard,Fashion,Delhi,Kolkata,14743
+ODR1108,2025-01-19,SMB,Standard,Healthcare,Mumbai,Mumbai,2486
+ODR1109,2025-01-19,SMB,Economy,Home Goods,Chennai,Mumbai,11911
+ODR1110,2025-03-12,SMB,Express,Food & Beverage,Bangalore,Chennai,18727
+ODR1111,2025-02-02,Individual,Express,Food & Beverage,Bangalore,Delhi,18843
+ODR1112,2025-02-08,Enterprise,Economy,Home Goods,Mumbai,Delhi,2885
+ODR1113,2025-01-01,Individual,Express,Electronics,Chennai,Kolkata,2302
+ODR1114,2025-02-26,SMB,Express,Books,Mumbai,Delhi,7116
+ODR1115,2025-02-19,Enterprise,Standard,Home Goods,Mumbai,Kolkata,14986
+ODR1116,2025-01-31,Enterprise,Standard,Electronics,Delhi,Mumbai,17146
+ODR1117,2025-01-16,Enterprise,Standard,Electronics,Chennai,Kolkata,9708
+ODR1118,2025-03-01,SMB,Standard,Home Goods,Bangalore,Chennai,13668
+ODR1119,2025-01-02,SMB,Economy,Books,Kolkata,Delhi,5923
+ODR1120,2025-01-12,Individual,Economy,Fashion,Chennai,Kolkata,19992
+ODR1121,2025-02-01,Enterprise,Economy,Fashion,Delhi,Mumbai,7658
+ODR1122,2025-01-09,Enterprise,Standard,Home Goods,Delhi,Delhi,7900
+ODR1123,2025-01-19,Enterprise,Standard,Books,Delhi,Chennai,15651
+ODR1124,2025-03-21,SMB,Express,Industrial,Chennai,Delhi,1654
+ODR1125,2025-01-20,SMB,Standard,Books,Bangalore,Mumbai,6795
+ODR1126,2025-02-23,SMB,Economy,Food & Beverage,Bangalore,Bangalore,12683
+ODR1127,2025-03-16,Enterprise,Standard,Electronics,Bangalore,Chennai,18532
+ODR1128,2025-03-13,Enterprise,Standard,Electronics,Kolkata,Chennai,6039
+ODR1129,2025-02-07,Individual,Economy,Electronics,Delhi,Mumbai,16086
+ODR1130,2025-03-30,Individual,Express,Books,Kolkata,Chennai,16982
+ODR1131,2025-01-25,SMB,Express,Food & Beverage,Delhi,Mumbai,14672
+ODR1132,2025-01-18,SMB,Economy,Electronics,Kolkata,Bangalore,14707
+ODR1133,2025-03-23,Individual,Economy,Food & Beverage,Mumbai,Chennai,12469
+ODR1134,2025-02-23,SMB,Express,Food & Beverage,Kolkata,Delhi,17840
+ODR1135,2025-02-10,Enterprise,Standard,Healthcare,Kolkata,Mumbai,6199
+ODR1136,2025-02-02,Individual,Standard,Books,Bangalore,Kolkata,4487
+ODR1137,2025-01-08,SMB,Standard,Home Goods,Bangalore,Kolkata,13946
+ODR1138,2025-03-08,SMB,Economy,Books,Bangalore,Kolkata,5235
+ODR1139,2025-02-02,Enterprise,Standard,Fashion,Mumbai,Chennai,5055
+ODR1140,2025-02-28,SMB,Standard,Healthcare,Chennai,Chennai,8550
+ODR1141,2025-03-27,Individual,Express,Books,Delhi,Bangalore,17929
+ODR1142,2025-01-30,Enterprise,Standard,Fashion,Chennai,Bangalore,14873
+ODR1143,2025-02-20,SMB,Economy,Industrial,Delhi,Kolkata,11177
+ODR1144,2025-01-08,Enterprise,Economy,Electronics,Kolkata,Chennai,17109
+ODR1145,2025-01-21,Individual,Express,Fashion,Kolkata,Mumbai,7522
+ODR1146,2025-03-05,SMB,Standard,Electronics,Kolkata,Bangalore,6100
+ODR1147,2025-03-10,Individual,Express,Food & Beverage,Kolkata,Bangalore,8496
+ODR1148,2025-02-17,SMB,Standard,Electronics,Kolkata,Bangalore,13446
+ODR1149,2025-01-04,Enterprise,Standard,Industrial,Bangalore,Kolkata,5142
+ODR1150,2025-03-05,SMB,Economy,Industrial,Mumbai,Mumbai,11812
+ODR1151,2025-01-17,Enterprise,Express,Electronics,Chennai,Bangalore,19089
+ODR1152,2025-02-15,Individual,Express,Healthcare,Chennai,Mumbai,3944
+ODR1153,2025-01-06,Enterprise,Standard,Food & Beverage,Kolkata,Bangalore,14934
+ODR1154,2025-02-06,SMB,Standard,Home Goods,Chennai,Mumbai,19211
+ODR1155,2025-02-15,SMB,Standard,Electronics,Delhi,Chennai,12968
+ODR1156,2025-03-01,Individual,Standard,Home Goods,Delhi,Chennai,690
+ODR1157,2025-03-26,Individual,Standard,Electronics,Chennai,Delhi,3475
+ODR1158,2025-03-28,Enterprise,Economy,Books,Chennai,Mumbai,18068
+ODR1159,2025-03-08,SMB,Standard,Industrial,Mumbai,Delhi,2316
+ODR1160,2025-02-23,Individual,Express,Industrial,Bangalore,Kolkata,1069
+ODR1161,2025-03-08,Enterprise,Economy,Books,Chennai,Chennai,2395
+ODR1162,2025-02-15,Individual,Standard,Fashion,Kolkata,Bangalore,4363
+ODR1163,2025-02-01,SMB,Economy,Healthcare,Kolkata,Delhi,4514
+ODR1164,2025-03-27,Individual,Standard,Home Goods,Chennai,Bangalore,18570
+ODR1165,2025-03-07,Individual,Express,Food & Beverage,Kolkata,Kolkata,17038
+ODR1166,2025-01-02,Individual,Economy,Books,Kolkata,Delhi,12749
+ODR1167,2025-01-17,Individual,Economy,Food & Beverage,Mumbai,Chennai,8596
+ODR1168,2025-01-09,Enterprise,Economy,Healthcare,Delhi,Kolkata,13033
+ODR1169,2025-02-17,SMB,Economy,Fashion,Delhi,Delhi,7706
+ODR1170,2025-02-11,Individual,Standard,Healthcare,Mumbai,Delhi,19690
+ODR1171,2025-01-26,Individual,Standard,Fashion,Kolkata,Bangalore,6486
+ODR1172,2025-02-19,Individual,Standard,Industrial,Chennai,Mumbai,11147
+ODR1173,2025-01-13,Enterprise,Standard,Healthcare,Chennai,Chennai,19834
+ODR1174,2025-02-26,Enterprise,Standard,Industrial,Bangalore,Bangalore,12823
+ODR1175,2025-02-14,SMB,Economy,Electronics,Bangalore,Bangalore,2868
+ODR1176,2025-01-08,SMB,Standard,Fashion,Delhi,Delhi,7155
+ODR1177,2025-01-16,Individual,Express,Fashion,Delhi,Chennai,11393
+ODR1178,2025-03-17,Individual,Standard,Home Goods,Chennai,Bangalore,13903
+ODR1179,2025-03-07,Individual,Standard,Fashion,Mumbai,Mumbai,11466
+ODR1180,2025-03-04,Enterprise,Express,Food & Beverage,Chennai,Kolkata,1353
+ODR1181,2025-02-20,Enterprise,Standard,Electronics,Kolkata,Delhi,17458
+ODR1182,2025-03-03,Individual,Economy,Home Goods,Delhi,Chennai,18032
+ODR1183,2025-01-22,Enterprise,Express,Food & Beverage,Mumbai,Kolkata,10407
+ODR1184,2025-02-11,SMB,Economy,Industrial,Chennai,Kolkata,15838
+ODR1185,2025-03-01,Individual,Economy,Books,Delhi,Mumbai,15828
+ODR1186,2025-01-08,SMB,Economy,Electronics,Bangalore,Bangalore,3551
+ODR1187,2025-01-05,SMB,Economy,Electronics,Mumbai,Bangalore,1376
+ODR1188,2025-02-16,Enterprise,Standard,Fashion,Bangalore,Bangalore,15702
+ODR1189,2025-02-24,Enterprise,Standard,Electronics,Delhi,Delhi,7579
+ODR1190,2025-02-21,SMB,Economy,Fashion,Bangalore,Delhi,7299
+ODR1191,2025-01-13,SMB,Express,Fashion,Mumbai,Delhi,4965
+ODR1192,2025-01-30,Enterprise,Economy,Electronics,Kolkata,Delhi,8811
+ODR1193,2025-03-04,Individual,Economy,Healthcare,Mumbai,Kolkata,14598
+ODR1194,2025-02-27,SMB,Express,Healthcare,Bangalore,Chennai,14762
+ODR1195,2025-03-31,SMB,Economy,Industrial,Chennai,Bangalore,8808
+ODR1196,2025-03-03,Individual,Express,Fashion,Chennai,Bangalore,19722
+ODR1197,2025-01-09,Enterprise,Express,Fashion,Chennai,Delhi,2431
+ODR1198,2025-01-01,Individual,Economy,Books,Mumbai,Delhi,1581
+ODR1199,2025-01-01,Individual,Standard,Industrial,Chennai,Delhi,13907

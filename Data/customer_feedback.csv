@@ -1,0 +1,84 @@
+order_id,rating,issue_category,feedback_date
+ODR1000,4,Poor communication,2025-01-27
+ODR1001,2,On-time,2025-03-20
+ODR1002,3,Late delivery,2025-01-23
+ODR1003,4,On-time,2025-03-18
+ODR1004,3,Poor communication,2025-02-06
+ODR1005,5,On-time,2025-02-25
+ODR1006,3,On-time,2025-03-04
+ODR1007,3,Damage issue,2025-01-23
+ODR1008,5,Damage issue,2025-01-30
+ODR1009,4,Damage issue,2025-01-25
+ODR1010,5,Excellent service,2025-01-08
+ODR1011,2,Late delivery,2025-02-27
+ODR1012,1,Poor communication,2025-01-05
+ODR1013,3,Poor communication,2025-03-06
+ODR1014,4,Excellent service,2025-03-05
+ODR1015,2,On-time,2025-03-30
+ODR1016,2,Excellent service,2025-01-21
+ODR1017,3,Poor communication,2025-01-27
+ODR1018,2,Excellent service,2025-02-10
+ODR1019,5,Excellent service,2025-01-09
+ODR1020,4,Late delivery,2025-02-05
+ODR1021,2,Late delivery,2025-03-31
+ODR1022,2,Damage issue,2025-02-23
+ODR1023,4,Poor communication,2025-03-22
+ODR1024,1,On-time,2025-02-03
+ODR1025,5,Late delivery,2025-01-20
+ODR1026,3,Poor communication,2025-01-16
+ODR1027,3,On-time,2025-03-11
+ODR1028,3,On-time,2025-02-27
+ODR1029,4,Damage issue,2025-01-04
+ODR1030,4,Late delivery,2025-01-10
+ODR1031,3,Damage issue,2025-01-26
+ODR1032,5,Late delivery,2025-03-26
+ODR1033,5,Late delivery,2025-03-15
+ODR1034,4,Late delivery,2025-03-01
+ODR1035,1,Late delivery,2025-02-14
+ODR1036,4,Damage issue,2025-01-17
+ODR1037,4,Excellent service,2025-01-14
+ODR1038,3,On-time,2025-03-29
+ODR1039,5,On-time,2025-03-21
+ODR1040,2,Excellent service,2025-02-24
+ODR1041,4,Damage issue,2025-01-04
+ODR1042,2,Poor communication,2025-01-30
+ODR1043,2,On-time,2025-01-19
+ODR1044,4,On-time,2025-03-01
+ODR1045,3,Excellent service,2025-02-18
+ODR1046,3,On-time,2025-01-22
+ODR1047,5,Late delivery,2025-03-17
+ODR1048,2,Excellent service,2025-01-31
+ODR1049,4,Excellent service,2025-03-05
+ODR1050,3,Late delivery,2025-02-17
+ODR1051,5,On-time,2025-02-24
+ODR1052,1,On-time,2025-02-24
+ODR1053,1,Late delivery,2025-01-18
+ODR1054,4,Damage issue,2025-02-16
+ODR1055,3,Poor communication,2025-02-26
+ODR1056,4,Excellent service,2025-02-14
+ODR1057,1,Excellent service,2025-01-17
+ODR1058,4,Late delivery,2025-01-20
+ODR1059,3,Late delivery,2025-01-15
+ODR1060,4,On-time,2025-03-16
+ODR1061,1,Late delivery,2025-03-31
+ODR1062,5,Excellent service,2025-03-02
+ODR1063,2,Excellent service,2025-02-19
+ODR1064,3,On-time,2025-03-18
+ODR1065,3,On-time,2025-03-11
+ODR1066,1,On-time,2025-02-20
+ODR1067,5,On-time,2025-01-19
+ODR1068,2,Excellent service,2025-02-04
+ODR1069,2,Poor communication,2025-03-10
+ODR1070,5,Late delivery,2025-03-05
+ODR1071,5,On-time,2025-03-25
+ODR1072,1,Poor communication,2025-01-21
+ODR1073,2,Poor communication,2025-03-05
+ODR1074,5,On-time,2025-03-11
+ODR1075,2,Poor communication,2025-01-04
+ODR1076,2,Poor communication,2025-02-04
+ODR1077,1,Poor communication,2025-01-24
+ODR1078,1,On-time,2025-03-11
+ODR1079,1,Late delivery,2025-02-23
+ODR1080,4,Damage issue,2025-03-01
+ODR1081,1,Late delivery,2025-01-31
+ODR1082,4,On-time,2025-01-24
